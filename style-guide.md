@@ -10,7 +10,7 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
+ 
 - Red: hsl(0, 78%, 62%)
 - Cyan: hsl(180, 62%, 55%)
 - Orange: hsl(34, 97%, 64%)
@@ -32,3 +32,5 @@ The designs were created to the following widths:
 
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 - Weights: 200, 400, 600
+
+
