@@ -16,7 +16,7 @@ body{
 .container{
     background-color: #fff;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .header{
@@ -87,6 +87,7 @@ body{
     margin-top: 20px;
     font-weight: 400;
     font-size: 14px;
+    color: hsl(229, 6%, 66%);
 
 }
 
